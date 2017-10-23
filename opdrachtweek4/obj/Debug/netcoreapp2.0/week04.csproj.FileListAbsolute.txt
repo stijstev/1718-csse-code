@@ -1,0 +1,10 @@
+/Users/stijnstevens/Code/1718-csse-code/week04/bin/Debug/netcoreapp2.0/week04.deps.json
+/Users/stijnstevens/Code/1718-csse-code/week04/bin/Debug/netcoreapp2.0/week04.runtimeconfig.json
+/Users/stijnstevens/Code/1718-csse-code/week04/bin/Debug/netcoreapp2.0/week04.runtimeconfig.dev.json
+/Users/stijnstevens/Code/1718-csse-code/week04/bin/Debug/netcoreapp2.0/week04.dll
+/Users/stijnstevens/Code/1718-csse-code/week04/bin/Debug/netcoreapp2.0/week04.pdb
+/Users/stijnstevens/Code/1718-csse-code/week04/obj/Debug/netcoreapp2.0/week04.csproj.CoreCompileInputs.cache
+/Users/stijnstevens/Code/1718-csse-code/week04/obj/Debug/netcoreapp2.0/week04.AssemblyInfoInputs.cache
+/Users/stijnstevens/Code/1718-csse-code/week04/obj/Debug/netcoreapp2.0/week04.AssemblyInfo.cs
+/Users/stijnstevens/Code/1718-csse-code/week04/obj/Debug/netcoreapp2.0/week04.dll
+/Users/stijnstevens/Code/1718-csse-code/week04/obj/Debug/netcoreapp2.0/week04.pdb
